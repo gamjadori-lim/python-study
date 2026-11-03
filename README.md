@@ -12,7 +12,7 @@ python3 test.py
 
 ## GitHub에 올리기
 
-GitHub에서 만든 퍼블릭 저장소 주소가 준비되면, 이 폴더에서 아래 순서로 연결합니다.
+맥의 VS Code 또는 Cursor 왼쪽 맨 아래에서 **GitHub에 로그인**한 뒤, 빈 퍼블릭 저장소 주소를 이 폴더의 원격으로 연결합니다.
 
 ```bash
 git remote add origin <GitHub 저장소 주소>
